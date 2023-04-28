@@ -1,0 +1,355 @@
+53 301
+Argentina -34.603722 -58.381592
+Australia -35.282000 149.128684
+Austria 48.2081743 16.3738189
+Belgium 50.8503396 4.3517103
+Nablus 24.02 2.01
+Brazil -15.7942 -47.8825
+Bulgaria 42.697708 23.321868
+Canada 45.4215296 -75.6971930
+Chile -33.448890 -70.669265
+China 39.9042 116.4074
+Colombia 4.7109885 -74.072092
+Croatia 45.8150108 15.9819189
+Czech-Republic 50.08804 14.42076
+Denmark 55.6760968 12.5683372
+Egypt 30.044420 31.235712
+Finland 60.1698557 24.9383791
+France 48.8566 2.3522
+Germany 52.52 13.405
+Greece 37.983917 23.729360
+GreenLand 94.1835 -51.7216
+Hungary 47.497912 19.040235
+India 28.6139 77.2090
+Indonesia -6.175110 106.865036
+Iran 35.696111 51.423056
+Ireland 53.3498053 -6.2603097
+Italy 41.9 12.5
+Japan 35.6895 139.6917
+Kenya -1.292066 36.821946
+Malaysia 3.139003 101.686855
+Mexico 19.432608 -99.133208
+Montenegro 42.442575 19.268646
+Netherlands 52.3745403 4.89797550
+Nigeria 9.081999 8.675277
+Norway 59.9138204 10.752245
+Palestine 31.771959 35.217018
+Peru -12.046374 -77.042793
+Poland 52.22977 21.01178
+Poland 52.23 21.01
+Portugal 35.7222524 -9.1393366
+Romania 44.4267674 26.1025384
+Russia 55.7558 37.6173
+Serbia 44.786568 20.4489216
+Slovakia 48.1481601 17.1067694
+Slovenia 46.0569465 14.5057515
+South-Africa -33.918861 18.423300
+South-Korea 37.566535 126.9779692
+Spain 36.4168 -3.7033
+Sweden 59.3293235 18.0685808
+Switzerland 46.9479739 7.4474468
+Thailand 13.7563309 100.5017651
+USA 38.9072 -77.0369
+United-Kingdom 51.507351 -0.127758
+Venezuela 10.480594 -66.903603
+Belgium Peru
+Kenya Austria
+Norway United-Kingdom
+Palestine Egypt
+Kenya Iran
+Brazil Netherlands
+Italy Nigeria
+Argentina South-Africa
+China South-Korea
+Bulgaria Nigeria
+Egypt Spain
+Malaysia Norway
+Belgium Poland
+Ireland Serbia
+Bulgaria South-Korea
+Spain Indonesia
+Denmark USA
+GreenLand Sweden
+Denmark Canada
+Finland Switzerland
+Poland Austria
+Italy Slovakia
+Poland Palestine
+Italy Chile
+Hungary Belgium
+Denmark Ireland
+Mexico Chile
+Slovakia Germany
+France Belgium
+Kenya South-Korea
+Brazil Thailand
+Romania Indonesia
+France Finland
+Portugal Spain
+Ireland Germany
+Spain Portugal
+Serbia Romania
+Greece Bulgaria
+Venezuela Palestine
+Slovakia China
+Chile Japan
+Ireland Australia
+Portugal Australia
+Greece Hungary
+Serbia South-Africa
+Brazil Portugal
+Norway Thailand
+South-Korea Colombia
+Romania Italy
+Belgium Hungary
+Colombia Japan
+Iran Canada
+Greece Peru
+Russia USA
+South-Africa GreenLand
+Spain Brazil
+Switzerland Egypt
+Venezuela Australia
+Nablus Egypt
+Kenya Malaysia
+China Spain
+Spain Canada
+Switzerland Canada
+Austria Belgium
+Sweden Czech-Republic
+Serbia Croatia
+Thailand Argentina
+Croatia Switzerland
+Croatia Portugal
+Colombia Egypt
+Hungary Spain
+Germany Romania
+Romania Venezuela
+Italy Greece
+Portugal Bulgaria
+Malaysia Iran
+Belgium Colombia
+GreenLand South-Africa
+Australia Peru
+Switzerland Argentina
+Belgium South-Korea
+Palestine Czech-Republic
+United-Kingdom Denmark
+Romania Italy
+GreenLand India
+Chile Brazil
+Chile Poland
+Denmark Iran
+Portugal Brazil
+Iran Peru
+Ireland Croatia
+Croatia Russia
+France Czech-Republic
+Chile GreenLand
+Germany Ireland
+Montenegro Indonesia
+Croatia Venezuela
+Nigeria Portugal
+Ireland Czech-Republic
+India Denmark
+Italy Denmark
+Spain Venezuela
+Croatia Greece
+Chile Croatia
+Norway Romania
+South-Africa Poland
+Ireland Switzerland
+United-Kingdom Japan
+Slovenia Brazil
+Poland Malaysia
+Czech-Republic Poland
+Norway Croatia
+China Palestine
+Czech-Republic Austria
+Peru Poland
+Slovenia India
+Slovenia Argentina
+Ireland Czech-Republic
+Netherlands Portugal
+Bulgaria Argentina
+Netherlands Croatia
+Canada Peru
+Slovakia Denmark
+Bulgaria Poland
+Egypt Austria
+Kenya Finland
+Peru Portugal
+Hungary Norway
+Egypt Indonesia
+Iran Austria
+Switzerland Ireland
+Czech-Republic South-Africa
+Belgium Portugal
+USA Iran
+Czech-Republic Peru
+Greece Switzerland
+France Malaysia
+Norway Spain
+Argentina Iran
+USA South-Korea
+Brazil Slovenia
+Indonesia Germany
+Venezuela Peru
+Mexico Brazil
+Norway India
+Bulgaria Finland
+Poland Egypt
+Malaysia Peru
+USA Austria
+Italy Kenya
+India Slovenia
+Argentina Russia
+United-Kingdom Slovenia
+Iran Serbia
+Finland China
+Greece Peru
+Kenya Croatia
+Greece South-Africa
+Switzerland Venezuela
+Belgium GreenLand
+South-Korea Belgium
+Argentina South-Africa
+Thailand Egypt
+Ireland Spain
+Nigeria Germany
+USA Italy
+South-Africa Serbia
+China Venezuela
+Russia Czech-Republic
+Malaysia France
+India Norway
+United-Kingdom Slovenia
+Portugal Mexico
+Hungary Norway
+China Denmark
+France Palestine
+Montenegro Australia
+Indonesia Kenya
+Egypt Australia
+Germany Poland
+Kenya France
+Nigeria Palestine
+Austria Ireland
+Poland Belgium
+South-Korea Switzerland
+Malaysia Canada
+Spain Croatia
+Austria Venezuela
+Italy Switzerland
+Austria Sweden
+Portugal Poland
+Switzerland China
+Japan Netherlands
+Palestine Germany
+USA Germany
+Palestine Norway
+Netherlands Colombia
+Portugal Belgium
+Netherlands Czech-Republic
+Montenegro Romania
+Slovenia Greece
+Portugal Montenegro
+Thailand Egypt
+Bulgaria Russia
+Belgium USA
+Australia Sweden
+Venezuela Poland
+Canada Hungary
+Argentina Brazil
+Kenya Malaysia
+Romania Australia
+Malaysia Serbia
+Argentina Austria
+Finland USA
+Serbia South-Korea
+Sweden Denmark
+Ireland Germany
+Sweden France
+Japan Portugal
+Denmark Switzerland
+Egypt Germany
+Poland Montenegro
+Portugal Spain
+South-Africa Egypt
+Iran Montenegro
+Japan Czech-Republic
+Thailand GreenLand
+Italy Peru
+Slovakia Bulgaria
+Germany Japan
+Colombia Portugal
+Poland Kenya
+Venezuela Norway
+GreenLand Poland
+Serbia Norway
+Malaysia Portugal
+Russia Croatia
+Indonesia Switzerland
+Colombia USA
+Nigeria Palestine
+Canada Belgium
+Mexico Hungary
+Thailand Greece
+Poland GreenLand
+Greece Germany
+Serbia Malaysia
+Thailand South-Korea
+Kenya Germany
+Montenegro Slovenia
+Belgium Australia
+Russia Palestine
+Indonesia Japan
+Denmark Norway
+Colombia Egypt
+Egypt Austria
+Egypt Finland
+Netherlands Iran
+Spain Nigeria
+Chile Italy
+Netherlands Indonesia
+Peru Netherlands
+Montenegro South-Korea
+Canada Peru
+Hungary South-Korea
+Egypt Japan
+France China
+Thailand Indonesia
+Colombia Finland
+Brazil Montenegro
+Ireland Poland
+Norway Japan
+France Sweden
+Hungary Germany
+Poland Japan
+Mexico Montenegro
+India Slovenia
+Australia South-Korea
+India Serbia
+India Brazil
+Japan Mexico
+Chile Sweden
+Belgium Poland
+Nigeria South-Korea
+Hungary Croatia
+Romania Slovenia
+Poland Belgium
+Netherlands Poland
+Croatia South-Korea
+Slovenia Brazil
+Sweden Poland
+Australia Mexico
+GreenLand Russia
+Iran Slovenia
+Serbia Germany
+South-Korea Croatia
+Hungary Ireland
+Peru Belgium
+Poland Czech-Republic
+Montenegro Denmark
+United-Kingdom India
+Australia United-Kingdom
